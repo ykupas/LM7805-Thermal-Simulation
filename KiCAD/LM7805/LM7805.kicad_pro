@@ -8,7 +8,7 @@
       "internal_id": "",
       "mfg": "",
       "mpn": "",
-      "sch_revision": ""
+      "sch_revision": "A"
     },
     "layer_pairs": [],
     "layer_presets": [],
@@ -423,11 +423,22 @@
     "reuse_designators": true,
     "subpart_first_id": 65,
     "subpart_id_separator": 0,
-    "top_level_sheets": [],
-    "used_designators": "",
+    "top_level_sheets": [
+      {
+        "filename": "LM7805.kicad_sch",
+        "name": "LM7805",
+        "uuid": "3172a3f2-fa86-4d47-9635-7d5f53b40f4e"
+      }
+    ],
+    "used_designators": "#PWR1-7,C1-2,CN2,J1,U1",
     "variants": []
   },
-  "sheets": [],
+  "sheets": [
+    [
+      "3172a3f2-fa86-4d47-9635-7d5f53b40f4e",
+      "LM7805"
+    ]
+  ],
   "text_variables": {},
   "tuning_profiles": {
     "meta": {
