@@ -16,5 +16,8 @@ Circuit characteristics and thermal assumptions are presented below.
 ![lm7805-schematic](Img/lm7805-schematic.png)
 
 ## PCB Layout
+![pcb-7805](Img/pcb-7805.png)
+![pcb-7805-lying](Img/pcb-7805-lying.png)
+![pcb-7805-heatsink](Img/pcb-7805-heatsink.png)
 
 ## Thermal Characteristics
