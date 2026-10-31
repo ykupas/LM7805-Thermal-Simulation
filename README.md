@@ -1,5 +1,5 @@
 # PCB Thermal Simulation
-PCB layout thermal simulation using [ElmerFEM](https://github.com/elmercsc/elmerfem), [PoeAlex KiCAD-Thermal-Sim](https://github.com/PoeAlex/KiCad_Thermal_Sim) repository and [KiPIDA](https://github.com/kbralten/KiPIDA/tree/main) KiCAD plugin. 
+PCB layout thermal simulation using [ElmerFEM](https://github.com/elmercsc/elmerfem) and [PoeAlex KiCAD-Thermal-Sim](https://github.com/PoeAlex/KiCad_Thermal_Sim) repository. 
 
 ## Used Tools
 * [KiCAD](https://www.kicad.org/) v10.0.7
