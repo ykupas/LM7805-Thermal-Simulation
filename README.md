@@ -13,6 +13,7 @@ Simulate and analyze the thermal characteristics of a simple LM7805 circuit, wit
 Circuit characteristics and thermal assumptions are presented below.
 
 ## Schematic
+![lm7805-schematic](Img/lm7805-schematic.png)
 
 ## PCB Layout
 
